@@ -16,7 +16,7 @@ body {
 .item {
   list-style: none;
   text-decoration: none;
-  color: inherit; 
+  color: inherit;
 }
 
 .visually-hidden {
@@ -39,7 +39,15 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
+}
+.logo-web {
   color: var(--accent-color);
+}
+.logo-studio {
+  color: var(--title-text-color);
+}
+.logo-studio-white {
+  color: var(--white-color);
 }
 .header-nav {
   font-weight: 500;
